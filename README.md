@@ -9,6 +9,7 @@
 A complete **Movie Review Sentiment Analysis** system built using Natural Language Processing (NLP) techniques. The project classifies IMDB movie reviews as **Positive** or **Negative** using machine learning models, with a GUI-based prediction interface.
 
 ## Dataset
+- **GitHub:** [Movie-Review-Prediction](https://github.com/TheSpectre542005/Movie-Review-Prediction)
 - **Source:** [IMDB Dataset (Kaggle)](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 - **Size:** 50,000 movie reviews (25,000 positive + 25,000 negative)
 - **Columns:** `review` (text), `sentiment` (positive/negative)
